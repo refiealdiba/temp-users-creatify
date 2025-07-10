@@ -18,4 +18,3 @@ export async function testDbConnection() {
 }
 
 export default db;
-// This code creates a MySQL connection pool using the mysql2 library.
