@@ -1,0 +1,21 @@
+# ⛔ Node modules (jangan pernah upload)
+node_modules/
+
+# ⛔ File build hasil TypeScript
+dist/
+
+# ⛔ File environment (berisi password, secret key, dll)
+# .env
+
+# ⛔ File upload dari user
+uploads/
+
+# ⛔ File log (jika kamu pakai logging manual)
+*.log
+
+# ⛔ VSCode folder dan config
+.vscode/
+
+# ⛔ Optional: OS file
+.DS_Store
+Thumbs.db
